@@ -78,7 +78,7 @@ namespace michealogundero.EmailSettings
                     {
                         emailClient.SslProtocols |= SslProtocols.Tls;
                         emailClient.CheckCertificateRevocation = false;
-                        await emailClient.ConnectAsync("smtp.gmail.com", 465, true);
+                        await emailClient.ConnectAsync("smtp.gmail.com", 465, false);
                         await emailClient.AuthenticateAsync(_myEmail, _myEmailPassword);
                     }
                     catch (Exception ex)

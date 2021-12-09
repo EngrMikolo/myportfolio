@@ -63,6 +63,8 @@ C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\P
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\fonts\poppins\stylesheet.css
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\images\IMG_0523.jpg
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\images\me_at_work.jpg
+C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\images\portfolio\cervitech_profile.jpg
+C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\images\portfolio\cervitech_rating.jpg
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\images\potrait.jpg
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\js\jquery-2.1.3.min.js
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\js\main.js
