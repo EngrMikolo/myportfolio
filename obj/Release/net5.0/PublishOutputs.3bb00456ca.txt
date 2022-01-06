@@ -14,6 +14,8 @@ C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\P
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\css\micons\fonts\icomoon.woff
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\css\micons\micons.css
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\css\site.css
+C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\css\snow.min.css
+C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\css\snowflake.scss
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\css\vendor.css
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\documents\ogundero_micheal_ayodeji.docx
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\documents\ogundero_micheal_ayodeji_CV.pdf
@@ -72,6 +74,7 @@ C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\P
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\js\pace.min.js
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\js\plugins.js
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\js\site.js
+C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\js\snow.js
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Release\net5.0\PubTmp\Out\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
