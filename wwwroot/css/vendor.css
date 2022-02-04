@@ -1,0 +1,158 @@
+/**
+ * =================================================================== 
+ *
+ *  Kards v1.0 Vendor/Third Party CSS 
+ *  url: styleshout.com
+ *  03-01-2016
+ *  ------------------------------------------------------------------
+ *  TOC:
+ *  01. Core Owl Carousel CSS File
+ *  02. Magnific Popup CSS
+ *
+ * =================================================================== 
+ */
+
+/* 
+ *  01. Core Owl Carousel CSS File
+ *	 v1.3.3
+ */
+
+/* clearfix */
+.owl-carousel .owl-wrapper:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+
+/* display none until init */
+.owl-carousel {
+	display: none;
+	position: relative;
+	width: 100%;
+	-ms-touch-action: pan-y;
+}
+
+	.owl-carousel .owl-wrapper {
+		display: none;
+		position: relative;
+		-webkit-transform: translate3d(0px, 0px, 0px);
+	}
+
+	.owl-carousel .owl-wrapper-outer {
+		overflow: hidden;
+		position: relative;
+		width: 100%;
+	}
+
+		.owl-carousel .owl-wrapper-outer.autoHeight {
+			-webkit-transition: height 500ms ease-in-out;
+			-moz-transition: height 500ms ease-in-out;
+			-ms-transition: height 500ms ease-in-out;
+			-o-transition: height 500ms ease-in-out;
+			transition: height 500ms ease-in-out;
+		}
+
+	.owl-carousel .owl-item {
+		float: left;
+	}
+
+.owl-controls .owl-page, .owl-controls .owl-buttons div {
+	cursor: pointer;
+}
+
+.owl-controls {
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	-webkit-tap-highlight-color: transparent;
+}
+
+/* mouse grab icon */
+.grabbing {
+	cursor: url(grabbing.png) 8 8, move;
+}
+
+/* fix */
+.owl-carousel .owl-wrapper, .owl-carousel .owl-item {
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
+	-webkit-transform: translate3d(0, 0, 0);
+	-moz-transform: translate3d(0, 0, 0);
+	-ms-transform: translate3d(0, 0, 0);
+}
+
+/* 
+ *  Owl Carousel CSS3 Transitions 
+ *  v1.3.2
+ */
+
+
+/* fade */
+
+
+/* backSlide */
+
+
+/* goDown */
+
+
+/* scaleUp */
+
+
+/* Keyframes */
+
+/*empty*/
+
+
+
+/* 
+ *  02. Magnific Popup CSS
+ */
+
+.mfp-hide {
+	display: none !important;
+}
+
+.mfp-preloader {
+	color: #CCC;
+	position: absolute;
+	top: 50%;
+	width: auto;
+	text-align: center;
+	margin-top: -0.8em;
+	left: 8px;
+	right: 8px;
+	z-index: 1044;
+}
+
+	.mfp-preloader a {
+		color: #CCC;
+	}
+
+		.mfp-preloader a:hover {
+			color: #FFF;
+		}
+
+.mfp-s-ready .mfp-preloader {
+	display: none;
+}
+
+
+
+
+
+/* The shadow behind the image */
+
+
+	/**
+	     * Remove all paddings around the image on small screen
+	     */
+
+
+/*# sourceMappingURL=vendor.css.map */
