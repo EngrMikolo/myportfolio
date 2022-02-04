@@ -358,6 +358,7 @@ C:\Users\temit\source\repos\michealogundero\michealogundero\bin\Debug\net5.0\zh-
 C:\Users\temit\source\repos\michealogundero\michealogundero\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Debug\net5.0\michealogundero.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\temit\source\repos\michealogundero\michealogundero\obj\Debug\net5.0\michealogundero.csproj.AssemblyReference.cache
+<<<<<<< HEAD
 C:\Users\DELL\source\repos\portfolio\portfolio\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\DELL\source\repos\portfolio\portfolio\bin\Debug\net5.0\appsettings.json
 C:\Users\DELL\source\repos\portfolio\portfolio\bin\Debug\net5.0\michealogundero.exe
@@ -1078,3 +1079,5 @@ C:\Users\DELL\source\repos\michealogundero\michealogundero\obj\Debug\net5.0\mich
 C:\Users\DELL\source\repos\michealogundero\michealogundero\obj\Debug\net5.0\ref\michealogundero.dll
 C:\Users\DELL\source\repos\michealogundero\michealogundero\obj\Debug\net5.0\michealogundero.pdb
 C:\Users\DELL\source\repos\michealogundero\michealogundero\obj\Debug\net5.0\michealogundero.genruntimeconfig.cache
+=======
+>>>>>>> 32cce7064d1e0e23a1905ad622eaba7f5e185a8b
