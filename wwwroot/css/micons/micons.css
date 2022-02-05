@@ -40,13 +40,10 @@
     content: "\e993";
 }
 
-<<<<<<< HEAD
 .icon-whatsapp:before {
-    content: "\ea93";
+    content: "\1f597";
 }
 
-=======
->>>>>>> 32cce7064d1e0e23a1905ad622eaba7f5e185a8b
 .icon-pin:before {
     content: "\e995";
 }

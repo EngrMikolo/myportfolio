@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\DELL\\source\\repos\\michealogundero\\michealogundero\\michealogundero.csproj": {}
   },
   "projects": {
@@ -17,39 +16,12 @@
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-=======
-    "C:\\Users\\temit\\source\\repos\\michealogundero\\michealogundero\\michealogundero.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\temit\\source\\repos\\michealogundero\\michealogundero\\michealogundero.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\temit\\source\\repos\\michealogundero\\michealogundero\\michealogundero.csproj",
-        "projectName": "michealogundero",
-        "projectPath": "C:\\Users\\temit\\source\\repos\\michealogundero\\michealogundero\\michealogundero.csproj",
-        "packagesPath": "C:\\Users\\temit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\temit\\source\\repos\\michealogundero\\michealogundero\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\temit\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
->>>>>>> 32cce7064d1e0e23a1905ad622eaba7f5e185a8b
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-<<<<<<< HEAD
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-=======
->>>>>>> 32cce7064d1e0e23a1905ad622eaba7f5e185a8b
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -103,11 +75,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
->>>>>>> 32cce7064d1e0e23a1905ad622eaba7f5e185a8b
         }
       }
     }
