@@ -560,17 +560,9 @@
         }
       },
       "System.Buffers/4.5.1": {},
-      "System.Collections.Immutable/5.0.0": {
-        "compile": {
-          "lib/netstandard2.0/System.Collections.Immutable.dll": {}
-        }
-      },
+      "System.Collections.Immutable/5.0.0": {},
       "System.Memory/4.5.4": {},
-      "System.Reflection.Metadata/5.0.0": {
-        "compile": {
-          "lib/netstandard2.0/System.Reflection.Metadata.dll": {}
-        }
-      },
+      "System.Reflection.Metadata/5.0.0": {},
       "System.Reflection.TypeExtensions/4.4.0": {},
       "System.Runtime.CompilerServices.Unsafe/4.7.1": {},
       "System.Security.Cryptography.Cng/4.7.0": {},
