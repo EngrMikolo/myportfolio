@@ -1218,19 +1218,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\Eyiza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\michealogundero\\michealogundero\\michealogundero.csproj",
+      "projectUniqueName": "C:\\Users\\Eyiza\\source\\repos\\michealogundero\\michealogundero\\michealogundero.csproj",
       "projectName": "michealogundero",
-      "projectPath": "C:\\Users\\DELL\\source\\repos\\michealogundero\\michealogundero\\michealogundero.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\michealogundero\\michealogundero\\obj\\",
+      "projectPath": "C:\\Users\\Eyiza\\source\\repos\\michealogundero\\michealogundero\\michealogundero.csproj",
+      "packagesPath": "C:\\Users\\Eyiza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eyiza\\source\\repos\\michealogundero\\michealogundero\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Eyiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1291,7 +1291,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
