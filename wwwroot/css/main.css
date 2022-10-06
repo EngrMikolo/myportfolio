@@ -621,7 +621,7 @@ input[type="button"] {
 			height: 100%;
 		}
 
-			.skill-bars li .progress span {
+			/* .skill-bars li .progress span {
 				position: absolute;
 				right: 0;
 				top: -3.6rem;
@@ -644,7 +644,7 @@ input[type="button"] {
 					border-left: 5px solid transparent;
 					border-top: 5px solid #313131;
 					content: "";
-				}
+				} */
 
 		.skill-bars li .percent65 {
 			width: 65%;
@@ -1186,7 +1186,7 @@ header {
 	}
 
 
-
+ 
 .about-content {
 	position: relative;
 	text-align: left;
